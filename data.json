@@ -8,7 +8,25 @@
   "database": {
 
   },
-  "version-control": {
-
-  }
+  "version-control": [
+    "Git",
+    "Subversion",
+    "Microsoft Team Foundation Server",
+    "Helix Core",
+    "AWS CodeCommit",
+    "Mercurial",
+    "Relational ClearCase",
+    "Micro Focus AccuRev",
+    "Plastic SCM",
+    "FogBugz",
+    "CVS",
+    "Bazaar",
+    "Surround SCM",
+    "Kiln",
+    "Vault",
+    "Micro Focus StarTeam",
+    "Micro Focus PVCS",
+    "Rational Synergy",
+    "Kallithea"
+  ]
 }
