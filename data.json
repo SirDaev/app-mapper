@@ -5,9 +5,16 @@
   "back-end": {
 
   },
-  "database": {
-
-  },
+  "database": [
+    "Oracle",
+    "MySQL",
+    "Microsoft SQL Server",
+    "PostgreSQL",
+    "DB2",
+    "Redis",
+    "MongoDB",
+    "MariaDB"
+],
   "version-control": [
     "Git",
     "Subversion",
