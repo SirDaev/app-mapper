@@ -1,10 +1,27 @@
 {
-  "front-end": {
-
-  },
-  "back-end": {
-
-  },
+  "front-end": [
+    "Angular",
+    "Aurelia",
+    "Ember",
+    "jQuery",
+    "MobX",
+    "React",
+    "Redux",
+    "Svelte",
+    "Scss",
+    "Typescript",
+    "Vue"
+  ],
+  "back-end": [
+    "c#",
+    "express",
+    "Java",
+    "Node",
+    "Perl",
+    "PHP",
+    "Python",
+    "Ruby"
+  ],
   "database": [
     "Oracle",
     "MySQL",
